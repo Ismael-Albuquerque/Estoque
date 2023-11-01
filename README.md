@@ -6,26 +6,24 @@
   
 <meta charset="UTF-8"/>
 
-<title>Estoque</title>
-
 </head>
 
 <body>
-  
+<h2>Estoque</h2>
 <p>Este projeto simula um estoque onde o usuário insere o nome do produto, sua quantidade e valor</p>
 
 <h3>Funcionalidades</h3> 
-<p>Mostra os dados do produto (nome, preço e valor total do estoque)
-   Realiza uma entrada no estoque e mostra novamente os dados do produto
-   Realiza uma saída no estoque e mostra novamente os dados do produto.
-   Para isso foi criado a classe Produto que possui os seguintes métodos:
-        Valor total em estoque
-        Adicionar produto
-        Remover produto</p>
+<p>Mostra os dados do produto (nome, preço e valor total do estoque)</p>
+<p>Realiza uma entrada no estoque e mostra novamente os dados do produto</p>
+<p>Realiza uma saída no estoque e mostra novamente os dados do produto.</p>
+<p>Para isso foi criado a classe Produto que possui os seguintes métodos:</p>
+     <p>Valor total em estoque</p>
+     <p>Adicionar produto</p>
+     <p>Remover produto</p>
 
 <h3>Tecnologias utilizadas</h3> 
-<p>IDE: Microsoft Visual Studio
-   Linguagem: C#   </p>
+<p>IDE: Microsoft Visual Studio</p>
+<p>Linguagem: C#</p>
    
 </body>
 
